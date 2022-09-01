@@ -15,6 +15,6 @@ iv)	Les scripts intégrés :
 •	https://d3js.org/d3.v4.js 
 
 
-•	Visu_animaux_plaintes.js (fichier crée sur la base du cours en ligne sur Udemy.com « Master D3.js with Concepts & 25+ Projects | ~43 Hours | 2021)
+•	Visu_animaux_plaintes.js 
 
-v)	Ce projet a été réalisé dans le cadre du cours de Visualisation des données par le Professeur Isaac Pante durant l’année académique 2021-2022. Il s’agit d’un cours obligatoire pour les étudiants de master en droit, criminalité, et sécurité des technologies de l’information dont je fais partie. 
+v)	Ce projet a été réalisé dans le cadre du cours de Visualisation des données par le Professeur Isaac Pante durant l’année académique 2021-2022. Il s’agit d’un cours obligatoire pour les étudiants de master en droit, criminalité, et sécurité des technologies de l’information dont je fais partie. Pour m'aider à la réalisation j'ai également suivi en ligne une partie du cours en ligne sur Udemy.com « Master D3.js with Concepts & 25+ Projects | ~43 Hours | 2021).
