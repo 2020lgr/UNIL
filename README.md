@@ -2,7 +2,7 @@
 UNIL - Visualisation des données
 
 
-i)	Ce projet récapitule le nombre de procédures pénales communiquées par les cantons suisses en 2021 en matière de protection des animaux. Trois boutons correspondant aux types d’animaux (selon la catégorisation de la Confédération) sont présents. Il a pour fonctionnalité qu’en appuyant sur l’un des trois titres, les détails s’affichent. Le nombre de cas total par catégorie est affiché dans un cercle, et le nombre de cas correspondant à chaque animal peut être visualisé au travers de barres graphiques en dessous de chaque catégorie. Je trouvais intéressant d'avoir une visualisation qui démontre la différence entre le nombre de plaintes selon la catégorie d'animaux sélectionnée.
+i)	Ce projet récapitule le nombre de procédures pénales communiquées par les cantons suisses en 2021 en matière de protection des animaux. Trois boutons correspondant aux types d’animaux (selon la catégorisation de la Confédération) sont présents. Il a pour fonctionnalité qu’en appuyant sur l’un des trois titres, les détails s’affichent. Le nombre de cas total par catégorie est affiché dans un cercle, et le nombre de cas correspondant à chaque animal peut être visualisé au travers d'une barre graphique en dessous de chaque catégorie. Je trouvais intéressant d'avoir une visualisation qui démontre la différence entre le nombre de plaintes selon la catégorie d'animaux sélectionnée.
 
 ii)	Voici une capture d’écran
 ![image](https://user-images.githubusercontent.com/89684421/187950015-772f556a-f3e7-4158-ac73-6df9985c91b2.png)
